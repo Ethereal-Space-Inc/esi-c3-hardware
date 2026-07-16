@@ -1347,7 +1347,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "build",
+      "plot": "../Build/",
       "pos_files": "buils",
       "specctra_dsn": "",
       "step": "build/oresat-c3.step",
