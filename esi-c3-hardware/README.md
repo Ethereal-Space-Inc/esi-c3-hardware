@@ -1,5 +1,5 @@
 ---
-title: "**OreSat C3 Card**"
+title: "**OreSat C3 Card X ESI**"
 subtitle: |
   **Fabrication and Assembly Information**\
   For build TIME-STAMP
